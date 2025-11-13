@@ -21,4 +21,4 @@ Clean and prepare a raw dataset by removing missing values, duplicates, and form
 
 ## Files
 - mall_customers_cleaned.xlsx → Cleaned dataset  
-- README.md → Summary of data cleaning process
+- [README.md] (https://github.com/Chaitanya56C/Data-cleaning-Task-1/blob/main/README.md) → Summary of data cleaning process
