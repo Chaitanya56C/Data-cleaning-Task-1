@@ -21,4 +21,4 @@ Clean and prepare a raw dataset by removing missing values, duplicates, and form
 
 ## Files
 - mall_customers_cleaned.xlsx → (<a href="https://github.com/Chaitanya56C/Data-cleaning-Task-1/blob/main/mall_customers_cleaned.csv">Cleaned dataset</a>) 
-- README.md → (<a href="https://github.com/Chaitanya56C/Data-cleaning-Task-1/blob/main/README.md">Summary of data cleaning process</a>
+- README.md → (<a href="https://github.com/Chaitanya56C/Data-cleaning-Task-1/blob/main/README.md">Summary of data cleaning process</a>)
