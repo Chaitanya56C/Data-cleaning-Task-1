@@ -1,0 +1,201 @@
+CUSTOMER_ID,GENDER,AGE,ANNUAL_INCOME,SPENDING_SCORE,AGE GROUP
+1,Male,19,15,39,Young
+2,Male,21,15,81,Young
+3,Female,20,16,6,Young
+4,Female,23,16,77,Young
+5,Female,31,17,40,Middle Age
+6,Female,22,17,76,Young
+7,Female,35,18,6,Middle Age
+8,Female,23,18,94,Young
+9,Male,64,19,3,Senior
+10,Female,30,19,72,Middle Age
+11,Male,67,19,14,Senior
+12,Female,35,19,99,Middle Age
+13,Female,58,20,15,Senior
+14,Female,24,20,77,Young
+15,Male,37,20,13,Middle Age
+16,Male,22,20,79,Young
+17,Female,35,21,35,Middle Age
+18,Male,20,21,66,Young
+19,Male,52,23,29,Senior
+20,Female,35,23,98,Middle Age
+21,Male,35,24,35,Middle Age
+22,Male,25,24,73,Young
+23,Female,46,25,5,Senior
+24,Male,31,25,73,Middle Age
+25,Female,54,28,14,Senior
+26,Male,29,28,82,Middle Age
+27,Female,45,28,32,Middle Age
+28,Male,35,28,61,Middle Age
+29,Female,40,29,31,Middle Age
+30,Female,23,29,87,Young
+31,Male,60,30,4,Senior
+32,Female,21,30,73,Young
+33,Male,53,33,4,Senior
+34,Male,18,33,92,Young
+35,Female,49,33,14,Senior
+36,Female,21,33,81,Young
+37,Female,42,34,17,Middle Age
+38,Female,30,34,73,Middle Age
+39,Female,36,37,26,Middle Age
+40,Female,20,37,75,Young
+41,Female,65,38,35,Senior
+42,Male,24,38,92,Young
+43,Male,48,39,36,Senior
+44,Female,31,39,61,Middle Age
+45,Female,49,39,28,Senior
+46,Female,24,39,65,Young
+47,Female,50,40,55,Senior
+48,Female,27,40,47,Middle Age
+49,Female,29,40,42,Middle Age
+50,Female,31,40,42,Middle Age
+51,Female,49,42,52,Senior
+52,Male,33,42,60,Middle Age
+53,Female,31,43,54,Middle Age
+54,Male,59,43,60,Senior
+55,Female,50,43,45,Senior
+56,Male,47,43,41,Senior
+57,Female,51,44,50,Senior
+58,Male,69,44,46,Senior
+59,Female,27,46,51,Middle Age
+60,Male,53,46,46,Senior
+61,Male,70,46,56,Senior
+62,Male,19,46,55,Young
+63,Female,67,47,52,Senior
+64,Female,54,47,59,Senior
+65,Male,63,48,51,Senior
+66,Male,18,48,59,Young
+67,Female,43,48,50,Middle Age
+68,Female,68,48,48,Senior
+69,Male,19,48,59,Young
+70,Female,32,48,47,Middle Age
+71,Male,70,49,55,Senior
+72,Female,47,49,42,Senior
+73,Female,60,50,49,Senior
+74,Female,60,50,56,Senior
+75,Male,59,54,47,Senior
+76,Male,26,54,54,Middle Age
+77,Female,45,54,53,Middle Age
+78,Male,40,54,48,Middle Age
+79,Female,23,54,52,Young
+80,Female,49,54,42,Senior
+81,Male,57,54,51,Senior
+82,Male,38,54,55,Middle Age
+83,Male,67,54,41,Senior
+84,Female,46,54,44,Senior
+85,Female,21,54,57,Young
+86,Male,48,54,46,Senior
+87,Female,55,57,58,Senior
+88,Female,22,57,55,Young
+89,Female,34,58,60,Middle Age
+90,Female,50,58,46,Senior
+91,Female,68,59,55,Senior
+92,Male,18,59,41,Young
+93,Male,48,60,49,Senior
+94,Female,40,60,40,Middle Age
+95,Female,32,60,42,Middle Age
+96,Male,24,60,52,Young
+97,Female,47,60,47,Senior
+98,Female,27,60,50,Middle Age
+99,Male,48,61,42,Senior
+100,Male,20,61,49,Young
+101,Female,23,62,41,Young
+102,Female,49,62,48,Senior
+103,Male,67,62,59,Senior
+104,Male,26,62,55,Middle Age
+105,Male,49,62,56,Senior
+106,Female,21,62,42,Young
+107,Female,66,63,50,Senior
+108,Male,54,63,46,Senior
+109,Male,68,63,43,Senior
+110,Male,66,63,48,Senior
+111,Male,65,63,52,Senior
+112,Female,19,63,54,Young
+113,Female,38,64,42,Middle Age
+114,Male,19,64,46,Young
+115,Female,18,65,48,Young
+116,Female,19,65,50,Young
+117,Female,63,65,43,Senior
+118,Female,49,65,59,Senior
+119,Female,51,67,43,Senior
+120,Female,50,67,57,Senior
+121,Male,27,67,56,Middle Age
+122,Female,38,67,40,Middle Age
+123,Female,40,69,58,Middle Age
+124,Male,39,69,91,Middle Age
+125,Female,23,70,29,Young
+126,Female,31,70,77,Middle Age
+127,Male,43,71,35,Middle Age
+128,Male,40,71,95,Middle Age
+129,Male,59,71,11,Senior
+130,Male,38,71,75,Middle Age
+131,Male,47,71,9,Senior
+132,Male,39,71,75,Middle Age
+133,Female,25,72,34,Young
+134,Female,31,72,71,Middle Age
+135,Male,20,73,5,Young
+136,Female,29,73,88,Middle Age
+137,Female,44,73,7,Middle Age
+138,Male,32,73,73,Middle Age
+139,Male,19,74,10,Young
+140,Female,35,74,72,Middle Age
+141,Female,57,75,5,Senior
+142,Male,32,75,93,Middle Age
+143,Female,28,76,40,Middle Age
+144,Female,32,76,87,Middle Age
+145,Male,25,77,12,Young
+146,Male,28,77,97,Middle Age
+147,Male,48,77,36,Senior
+148,Female,32,77,74,Middle Age
+149,Female,34,78,22,Middle Age
+150,Male,34,78,90,Middle Age
+151,Male,43,78,17,Middle Age
+152,Male,39,78,88,Middle Age
+153,Female,44,78,20,Middle Age
+154,Female,38,78,76,Middle Age
+155,Female,47,78,16,Senior
+156,Female,27,78,89,Middle Age
+157,Male,37,78,1,Middle Age
+158,Female,30,78,78,Middle Age
+159,Male,34,78,1,Middle Age
+160,Female,30,78,73,Middle Age
+161,Female,56,79,35,Senior
+162,Female,29,79,83,Middle Age
+163,Male,19,81,5,Young
+164,Female,31,81,93,Middle Age
+165,Male,50,85,26,Senior
+166,Female,36,85,75,Middle Age
+167,Male,42,86,20,Middle Age
+168,Female,33,86,95,Middle Age
+169,Female,36,87,27,Middle Age
+170,Male,32,87,63,Middle Age
+171,Male,40,87,13,Middle Age
+172,Male,28,87,75,Middle Age
+173,Male,36,87,10,Middle Age
+174,Male,36,87,92,Middle Age
+175,Female,52,88,13,Senior
+176,Female,30,88,86,Middle Age
+177,Male,58,88,15,Senior
+178,Male,27,88,69,Middle Age
+179,Male,59,93,14,Senior
+180,Male,35,93,90,Middle Age
+181,Female,37,97,32,Middle Age
+182,Female,32,97,86,Middle Age
+183,Male,46,98,15,Senior
+184,Female,29,98,88,Middle Age
+185,Female,41,99,39,Middle Age
+186,Male,30,99,97,Middle Age
+187,Female,54,101,24,Senior
+188,Male,28,101,68,Middle Age
+189,Female,41,103,17,Middle Age
+190,Female,36,103,85,Middle Age
+191,Female,34,103,23,Middle Age
+192,Female,32,103,69,Middle Age
+193,Male,33,113,8,Middle Age
+194,Female,38,113,91,Middle Age
+195,Female,47,120,16,Senior
+196,Female,35,120,79,Middle Age
+197,Female,45,126,28,Middle Age
+198,Male,32,126,74,Middle Age
+199,Male,32,137,18,Middle Age
+200,Male,30,137,83,Middle Age
